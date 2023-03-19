@@ -1,9 +1,8 @@
 package Ejercicio_1;
 
-import java.time.LocalDate;
 import java.util.Scanner;
 
-public class Mostrar {
+public class Mostrar1 {
 
     public void menu(){
         Scanner sc = new Scanner(System.in);
@@ -29,7 +28,7 @@ public class Mostrar {
             System.out.println("2. Bicis Btwin riverside 900 (0 años) 10 velocidades");
             int opci = sc.nextInt();
 
-            if ()
+            //if ()
 
         }
 
