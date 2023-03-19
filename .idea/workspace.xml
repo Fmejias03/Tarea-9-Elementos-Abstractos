@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db346c52-f216-4fb3-b96d-b579dd5e5938" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicioi_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="db346c52-f216-4fb3-b96d-b579dd5e5938" name="Changes" comment="Ejercicio 1 Apartado a) completado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,11 +57,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679217688450</updated>
-      <workItem from="1679217689531" duration="693000" />
+      <workItem from="1679217689531" duration="1127000" />
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio 1 Apartado a) completado">
+      <created>1679218804757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679218804758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio 1 Apartado a) completado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1 Apartado a) completado" />
   </component>
 </project>

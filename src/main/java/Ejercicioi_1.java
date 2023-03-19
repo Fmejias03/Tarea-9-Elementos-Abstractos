@@ -75,4 +75,26 @@ public class Bicicleta {
         this.cambioMarchas = cambioMarchas;
     }
 
+
+    public double tarifaBici() {
+        return 4.90;
+    }
+
+    public double tarifaSegway() {
+        return 18.90;
+    }
+
+    public double tarifaGiroscopio() {
+        return 29.90;
+    }
+
+    public void mostrarBicis() {
+        System.out.println("Bicicleta{" +
+                "marca='" + marca + '\'' +
+                ", modelo='" + modelo + '\'' +
+                ", fechaCompra=" + fechaCompra +
+                ", cambioMarchas=" + cambioMarchas +
+                '}');
+    }
+
 }
